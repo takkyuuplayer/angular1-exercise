@@ -1,0 +1,8 @@
+{
+  "name": "angular1-exercise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/takkyuuplayer/angular1-exercise.git",
+  "author": "takkyuuplayer <takkyuuplayer@gmail.com>",
+  "license": "MIT"
+}
