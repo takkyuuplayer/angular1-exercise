@@ -1,8 +1,13 @@
 {
   "name": "angular1-exercise",
   "version": "1.0.0",
-  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/http-server -t public/"
+  },
   "repository": "ssh://git@github.com/takkyuuplayer/angular1-exercise.git",
   "author": "takkyuuplayer <takkyuuplayer@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
 }
